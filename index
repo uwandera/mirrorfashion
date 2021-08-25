@@ -1,12 +1,27 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <title>Page Title</title>
     </head>
   <body>
 
-    <h1>Mirros Fashion</h1>
-    <p>Aqui sera um paragrafo sobre mirroe</p>
+    <h1>Mirros Fashion 1</h1>
+    <h2>Mirros Fashion 2</h2>
+    <h3>Mirros Fashion 3</h3>
+    <h4>Mirros Fashion 4</h4>
+    <h5>Mirros Fashion 5</h5>
+    <h6>Mirros Fashion 6</h6>
+    
+         <a href="">
+
+           <p title="Escrever uma par de bosta">Aqui sera um paragrafo sobre mirroe</p>
+
+         </a> 
+         
+          <a href="">
+              <img src="img_girl.jpg" alt="Girl with a jacket">
+              
+         </a> 
 
   </body>
 </html>
