@@ -1,4 +1,8 @@
+/*Fonte ROBOTO para testes
+*/ 
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap');
+/*Configurações globais 
+*/
 * {
   margin: 0;
   padding: 0;
@@ -6,21 +10,25 @@
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
 }
-
+/*Margem superior do conteúdo 
+*/
 #aboutUs {
   margin-top: 30px;
 }
-
+/*Cor do título 
+*/
 h1 {
   background-color: grey;
  }
-
+/*Alinhamento de texto, altura e largura do 'box' que contém o texto
+*/
 p {
   text-align: center;
   height: 500px;
   width: 500px;
 }
-
+/* Margem superior da imagem
+*/
 #mirrorLogo {
   margin-top: 100px;;
 }
